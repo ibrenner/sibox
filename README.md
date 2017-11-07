@@ -118,11 +118,11 @@ the following table summerises the current commands we have with the sibox modul
 ### A few examples
 volume creation example:
 
-![Output Image #1 ](https://git.infinidat.com/ibrenner/infinisalt/raw/master/Screen%20Shot%202017-10-29%20at%2017.21.09.png)
+![Output Image #1 ](https://github.com/ibrenner/sibox/blob/master/Screen%20Shot%202017-10-29%20at%2017.21.09.png)
 
 Removing a host from a cluster:
 
-![Output Image #2 ](https://git.infinidat.com/ibrenner/infinisalt/raw/master/Screen%20Shot%202017-10-29%20at%2017.26.00.png)
+![Output Image #2 ](https://github.com/ibrenner/sibox/blob/master/Screen%20Shot%202017-10-29%20at%2017.26.00.png)
 
 
 
