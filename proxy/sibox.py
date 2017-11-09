@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 Interface with a IBOX device via proxy-minion. To connect to a IBOX device \
-via IBOX proxy, specify the host information in the pillar in '/srv/pillar/details.sls'
+via IBOX proxy, specify the host information in the pillar in '/srv/pillar/ibox.sls'
 
 '''
 from __future__ import absolute_import
